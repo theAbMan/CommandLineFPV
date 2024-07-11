@@ -1,7 +1,7 @@
 
 # Command Line FPV
 
-This application is a simple yet educational Command Line Fist Person Viewer Engine, inspired by classic games like Wolfenstein. It uses console graphics to simulate a first-person view within a maze-like environment.
+This application is a simple yet educational Command Line Fist Person Viewer Engine, inspired by classic games like Wolfenstein. It uses console graphics to simulate a first-person view within a maze-like environment
 
 ## Requirements
 
