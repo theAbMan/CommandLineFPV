@@ -1,0 +1,5 @@
+﻿  ConFPS.cpp
+C:\Users\abhim\source\repos\ConFPS\ConFPS.cpp(24,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\abhim\source\repos\ConFPS\ConFPS.cpp(146,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\abhim\source\repos\ConFPS\ConFPS.cpp(155,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  ConFPS.vcxproj -> C:\Users\abhim\source\repos\ConFPS\Debug\ConFPS.exe
